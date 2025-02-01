@@ -4,7 +4,7 @@
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tenshune&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <a href="[https://x.com/tenshune]](https://x.com/tenshune)" target="blank"><img src="https://img.shields.io/twitter/follow/tenshune?logo=twitter&style=for-the-badge" alt="tenshune" /></a> </p>
+
 
 - 🔭 I’m currently working on [Charatale](https://github.com/Angelfoxy28/Charatale)
 
