@@ -1,4 +1,4 @@
-## Hi there i'm Tenshune an FNF modder and a Game Dev 👋
+# Hi there i'm Tenshune an FNF modder and a Game Dev 👋
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tenshune&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) 
 
@@ -6,11 +6,11 @@
 
 
 
-- 🔭 I’m currently working on [Charatale](https://github.com/Angelfoxy28/Charatale)
+- 🔭 I’m currently working on [Charatale](https://github.com/tenshune/Charatale)
 
 - 🌱 I’m currently learning **Haxe**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Angelfoxiano?tab=repositories](https://github.com/Angelfoxiano?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Angelfoxiano?tab=repositories](https://github.com/tenshune?tab=repositories)
 
 - 💬 Ask me about **Whatever**
 
